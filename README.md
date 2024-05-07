@@ -1,4 +1,6 @@
-create venv
+1. create venv
+   python -m venv venv
+   .\venv\Scripts\activate
 
-install scrapy
+2. install scrapy
 
